@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "Gochi";
+    src: url(recurs/GochiHand-Regular.ttf) format("truetype");
+}
+header{
+    font-family: "Gochi", sans-serif;
+    color:blanchedalmond;
+    font-size: 30px;    
+}
+body{
+    background-color: rgb(128, 167, 169);
+}
+main{
+    background-color: beige;
+    background-size: cover;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: "Gochi", sans-serif;
+}
+nav{
+    background-color: rgb(218, 242, 243);
+    font-size: 20px;
+    font-family: "Gochi", sans-serif;
+}
+aside{
+    float: rigth;
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+.centrado{
+    text-align: center;
+}
+a:link{
+    color: rgb(99, 75, 78);
+}
+a:visited{
+    color: rgb(38, 36, 36);
+}
+a:hover{
+    color: rgb(227, 164, 164);
+}
